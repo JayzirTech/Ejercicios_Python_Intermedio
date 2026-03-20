@@ -47,3 +47,6 @@ for i in range(5):
 
     if 0 < sabor < 4 :
         cantidad=int(input("¿Cuántos helados deseas? "))
+
+
+#Hacer una lista con diccionarios dentro que indiquen qué sabor se pidió y la cantidad
